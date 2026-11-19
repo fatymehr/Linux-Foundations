@@ -1,0 +1,9 @@
+total 24
+drwxr-xr-x 5 meher meher 4096 Nov 19 16:47 .
+drwxr-xr-x 3 meher meher 4096 Nov 18 09:57 ..
+drwxr-xr-x 7 meher meher 4096 Nov 19 16:42 .git
+-rw-r--r-- 1 meher meher   45 Nov 18 10:25 README.md
+drwxr-xr-x 2 meher meher 4096 Nov 19 16:38 week1
+drwxr-xr-x 2 meher meher 4096 Nov 19 16:48 week2
+drwxr-xr-x 2 meher meher 4096 Nov 19 16:38 week1
+apt 3.2.1 (amd64)
