@@ -1,0 +1,40 @@
+=== CHMOD TRANSITIONS ===
+-rw-r--r-- 1 meher meher 0 Nov 20 15:12 week2/chmod_check.tmp
+
+=== PATH ENTRIES ===
+/usr/local/sbin
+/usr/local/bin
+/usr/sbin
+/usr/bin
+/sbin
+/bin
+/usr/games
+/usr/local/games
+/usr/lib/wsl/lib
+/mnt/c/Program Files/WindowsApps/MicrosoftCorporationII.WindowsSubsystemForLinux_3.0.5.0_x64__8wekyb3d8bbwe
+/mnt/c/WINDOWS/system32
+/mnt/c/WINDOWS
+/mnt/c/WINDOWS/System32/Wbem
+/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/
+/mnt/c/WINDOWS/System32/OpenSSH/
+/mnt/c/Program Files/nodejs/
+/mnt/c/ProgramData/chocolatey/bin
+/mnt/c/Program Files/Git/cmd
+/mnt/c/Program Files/WSL/
+/mnt/c/Users/meher/AppData/Local/Programs/Python/Python314/Scripts/
+/mnt/c/Users/meher/AppData/Local/Programs/Python/Python314/
+/mnt/c/Users/meher/AppData/Local/Programs/Python/Launcher/
+/mnt/c/Users/meher/AppData/Local/Microsoft/WindowsApps
+/mnt/c/Users/meher/AppData/Roaming/npm
+/mnt/c/Users/meher/AppData/Local/Programs/Microsoft VS Code/bin
+/mnt/c/Users/meher/AppData/Local/GitHubDesktop/bin
+/mnt/c/Users/meher/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim
+/mnt/c/Users/meher/AppData/Local/Programs/cursor/resources/app/bin
+/snap/bin
+/usr/local/go/bin
+
+=== CORE ENV VARS ===
+USER=meher
+HOME=/home/meher
+SHELL=/bin/bash
+WSL_DISTRO_NAME=Ubuntu
